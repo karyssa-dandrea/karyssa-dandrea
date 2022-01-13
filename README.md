@@ -6,6 +6,7 @@ Received my Certificate in Audio Engineering and I am excited to expand and use 
   HTML </li>
   <li>CSS </l1>
   <li>JavaScript</li>
+  <li>React</li>
   
   <img src="https://github.com/karyssa-dandrea/karyssa-dandrea/blob/main/giphy3.gif" width="200">
   
