@@ -14,7 +14,7 @@ Received my Certificate in Commerical Music and I am excited to expand and use m
   <h1>Testing: </h1>
   <li>Jest</li>
   <li>QUnit</li> 
-  <li> React</li>
+  <li> TDD</li>
   
   <img src="https://github.com/karyssa-dandrea/karyssa-dandrea/blob/main/giphy3.gif" width="200">
   
