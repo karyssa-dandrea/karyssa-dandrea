@@ -6,7 +6,6 @@ Received my Certificate in Commerical Music and I am excited to expand and use m
   HTML </li>
   <li>CSS </l1>
   <li>JavaScript</li>
-  <li>HTML</li>
   <br>
   <h1>Libraries + Frameworks:</h1>
   <li>React</li>
